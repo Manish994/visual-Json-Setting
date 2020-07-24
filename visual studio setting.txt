@@ -1,0 +1,22 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "window.zoomLevel": -1,
+    "editor.mouseWheelZoom": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontSize": 17,
+    "explorer.sortOrder": "type",
+    "workbench.sideBar.location": "right",
+    "editor.formatOnSave": true,
+    "breadcrumbs.enabled": false,
+    "editor.tabSize": 3,
+    "workbench.colorTheme": "Night Owl",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.startupEditor": "welcomePageInEmptyWorkbench",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.cursorStyle": "line",
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    }
+}
